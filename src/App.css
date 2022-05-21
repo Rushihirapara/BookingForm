@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.backg1{
+    background-color: rgb(243, 237, 230);
+
+}
+.name-hader{
+    background-color: whitesmoke;
+}
+.name-hader{
+    border: 0.5px solid cornsilk;
+border-radius: 20px solid black;
+
+}
+.grid-container{
+    border: 1px solid whitesmoke;
+
+}
+.grid-chind-container{
+    width: 50%;
+    float: left;
+    
+    
+    border: 1px solid whitesmoke;
+}
+
+
+
+.type-of-ride{
+    text-transform: capitalize;
+    text-align: center;
+}
+.backg1{
+    border-radius: 20px;
+}
+
+
+    
+    
+    
